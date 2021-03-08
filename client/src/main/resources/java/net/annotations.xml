@@ -1,0 +1,7 @@
+<root>
+    <item name='java.net.Socket java.io.OutputStream getOutputStream()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;-&gt; null&quot;"/>
+        </annotation>
+    </item>
+</root>
